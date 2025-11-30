@@ -18,7 +18,7 @@ Table 1: Evaluation Results of Gemini and Qwen
 | **Qwen 3** | Junior | **22** | 10 | 6 | 6 | 0 |
 
 
-- Genimi chat link: https://gemini.google.com/share/a24a7cae9bbf
+- Gemini chat link: https://gemini.google.com/share/a24a7cae9bbf
 - Qwen3 chat link: https://www.qianwen.com/share?shareId=2a126d23-87cc-42ba-af24-9fc8410b0ea7
 - Qwen3 chat link: https://www.qianwen.com/share?shareId=0791d863-b6bd-441d-ac79-c7042a0f1649
 
