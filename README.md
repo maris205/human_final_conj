@@ -17,6 +17,11 @@ Table 1: Evaluation Results of Gemini and Qwen
 | **Gemini 3** | Intermediate | **33** | 15 | 8 | 10 | 0 |
 | **Qwen 3** | Junior | **22** | 10 | 6 | 6 | 0 |
 
+
+- Genimi chat link: https://gemini.google.com/share/a24a7cae9bbf
+- Qwen3 chat link:https://www.qianwen.com/share?shareId=2a126d23-87cc-42ba-af24-9fc8410b0ea7，
+https://www.qianwen.com/share?shareId=0791d863-b6bd-441d-ac79-c7042a0f1649
+
 ## **Evaluation Methodology**
 
 To reproduce the evaluation or test other models, follow these steps:
